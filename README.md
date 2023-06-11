@@ -5,5 +5,6 @@
 1. to add a UI
 2. refactor for responsive
 3. check if a need for a database
+4. to configure a yaml file 
 
 
